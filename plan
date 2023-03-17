@@ -1,0 +1,6 @@
+Planning The Porject Routes
+
+/ --> Starting Page (show featured Events)
+/events ---> Events Page (show all events)
+/events/<some id> ---> Event Detail Page (show selected Event)
+/events/...slug ----> Filtered Events Page (show filtered Events)
